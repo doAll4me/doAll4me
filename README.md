@@ -9,13 +9,7 @@ Master’s student (Web & Frontend Engineering)
 - **Engineering**：Axios, React Router, Vite, Webpack
 - **Backend / Services**：Node.js, Express, LeanCloud
 - **Tools**：Git, Docker, Nginx
-### 👯 Projects | 项目经验
-- **Enterprise Admin System (React + TS)**  
-- **E-commerce Product Detail Page (Vanilla JS)**  
-### 🤔 Research & Engineering Contributions
-- Contributor, **Digital Twin Technical Guidelines for Urban Road Infrastructure (T/CHTS 10257—2025)**  
-- Co-author, *A Digital Twin Prototype for Urban Bridge Health Monitoring* (EI & Scopus indexed)
 ### 📫 Contact
-- Email: **（你的邮箱）**
+- Email: **xyLi_een@163.com**
 ### ⚡ Fun Fact
-- 喜欢通过写代码或刷题进入专注状态，有时也是我的“热身方式”
+- 喜欢通过写代码或刷题进入专注状态，这就是传说中的心流模式吗！
