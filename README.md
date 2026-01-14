@@ -1,7 +1,7 @@
 👋 Hi, I'm Xingyue Li（李星月）
 ---
- ✨Frontend Engineer | ✨Enterprise Web Applications  
-Master’s student (Web & Frontend Engineering)
+✨ 前端工程师（预备役） | 企业级 Web 应用  
+Web / 前端工程方向硕士研究生
 ### 🔭 About Me | 关于我
 - 专注前端工程方向，主要使用 **React / TypeScript**
 ### 🌱 Tech Stack | 技术栈
