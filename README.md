@@ -1,12 +1,9 @@
 👋 Hi, I'm Xingyue Li（李星月）
+---
  ✨Frontend Engineer | ✨Enterprise Web Applications  
 Master’s student (Web & Frontend Engineering)
----
 ### 🔭 About Me | 关于我
 - 专注前端工程方向，主要使用 **React / TypeScript**
-- 有企业级后台管理系统与复杂业务页面的完整落地经验
-- 熟悉登录鉴权、权限路由、状态管理及通用 CRUD 架构设计
-- 具备从需求到实现的工程化思维，注重代码可维护性与扩展性
 ### 🌱 Tech Stack | 技术栈
 - **Frontend**：React, TypeScript, Redux, Vue, Ant Design
 - **Engineering**：Axios, React Router, Vite, Webpack
